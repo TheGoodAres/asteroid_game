@@ -4,7 +4,7 @@
 - <strike>Implement multiple lives and respawning</strike>
 - Add an explosion effect for the asteroids
 - Add acceleration to the player movement
--<strike> Make the objects wrap around the screen instead of disappearing</strike>
+- <strike> Make the objects wrap around the screen instead of disappearing</strike>
 - Add a background image
 - Create different weapon types
 - Make the asteroids lumpy instead of perfectly round
