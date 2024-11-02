@@ -42,6 +42,8 @@ def main():
                 if lives > 1:
                     lives -= 1
                     player.kill()
+                    for object in asteroids:
+                        object.kill()
                     player = Player(SCREEN_WIDTH / 2, SCREEN_HEIGHT / 2)
                     print(f"lives: {lives}")
                 else:
